@@ -1,0 +1,29 @@
+{
+    "order_info": {
+        "order_number": "Order_No_1",
+        "order_date": "2022-11-16T15:41:00-07:00",
+        "attributes": {
+            "promo_code": "Promo_1234"
+        },
+        "order_items": [{
+                "fulfillment_status": "SHIPPED",
+                "item_id": "1",
+                "sku": "sku1",
+                "name": " Description1",
+                "attributes": {
+                    "Cost": "5000.00000",
+                    "order_source": "GBR"
+                }
+            },
+            {
+                "fulfillment_status": "SHIPPED",
+                "item_id": "2",
+                "sku": "sku2",
+                "name": "Description2",
+                "attributes": {
+                    "Cost": "8000.00000",
+                    "order_source": "GBR"
+                }
+            }
+        ]
+    }

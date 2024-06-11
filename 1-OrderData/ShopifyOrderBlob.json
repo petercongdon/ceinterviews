@@ -1,0 +1,546 @@
+{
+    "order": {
+        "id": 5664047464744,
+        "admin_graphql_api_id": "gid://shopify/Order/5664047464744",
+        "app_id": 1354745,
+        "browser_ip": "24.156.180.201",
+        "buyer_accepts_marketing": false,
+        "cancel_reason": null,
+        "cancelled_at": null,
+        "cart_token": null,
+        "checkout_id": 37247625658664,
+        "checkout_token": "b1119383920748eb933264c31df6cd9d",
+        "client_details": {
+            "accept_language": null,
+            "browser_height": null,
+            "browser_ip": "24.156.180.201",
+            "browser_width": null,
+            "session_hash": null,
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "closed_at": "2024-03-08T14:42:43-05:00",
+        "company": null,
+        "confirmation_number": "YG08HKMPM",
+        "confirmed": true,
+        "contact_email": "peter.congdon@narvar.com",
+        "created_at": "2024-01-02T01:43:27-05:00",
+        "currency": "USD",
+        "current_subtotal_price": "1200.00",
+        "current_subtotal_price_set": {
+            "shop_money": {
+                "amount": "1200.00",
+                "currency_code": "USD"
+            },
+            "presentment_money": {
+                "amount": "1200.00",
+                "currency_code": "USD"
+            }
+        },
+        "current_total_additional_fees_set": null,
+        "current_total_discounts": "0.00",
+        "current_total_discounts_set": {
+            "shop_money": {
+                "amount": "0.00",
+                "currency_code": "USD"
+            },
+            "presentment_money": {
+                "amount": "0.00",
+                "currency_code": "USD"
+            }
+        },
+        "current_total_duties_set": null,
+        "current_total_price": "1200.00",
+        "current_total_price_set": {
+            "shop_money": {
+                "amount": "1200.00",
+                "currency_code": "USD"
+            },
+            "presentment_money": {
+                "amount": "1200.00",
+                "currency_code": "USD"
+            }
+        },
+        "current_total_tax": "0.00",
+        "current_total_tax_set": {
+            "shop_money": {
+                "amount": "0.00",
+                "currency_code": "USD"
+            },
+            "presentment_money": {
+                "amount": "0.00",
+                "currency_code": "USD"
+            }
+        },
+        "customer_locale": "en",
+        "device_id": null,
+        "discount_codes": [],
+        "email": "peter.congdon@narvar.com",
+        "estimated_taxes": false,
+        "financial_status": "paid",
+        "fulfillment_status": "fulfilled",
+        "landing_site": null,
+        "landing_site_ref": null,
+        "location_id": null,
+        "merchant_of_record_app_id": null,
+        "name": "#1030",
+        "note": null,
+        "note_attributes": [],
+        "number": 30,
+        "order_number": 1030,
+        "order_status_url": "https://petersandbox-narvar.myshopify.com/81280336168/orders/b5077b6d5479897c679d1b7c5a77e846/authenticate?key=d0ec88b8a6b89cd8ac1e3db92808e26c&none=VQxWAlRFXQ",
+        "original_total_additional_fees_set": null,
+        "original_total_duties_set": null,
+        "payment_gateway_names": [
+            "manual"
+        ],
+        "phone": null,
+        "po_number": null,
+        "presentment_currency": "USD",
+        "processed_at": "2024-01-02T01:43:27-05:00",
+        "reference": "cf8a2eff0fbdd16bd15e9e4095834ff0",
+        "referring_site": null,
+        "source_identifier": "cf8a2eff0fbdd16bd15e9e4095834ff0",
+        "source_name": "shopify_draft_order",
+        "source_url": null,
+        "subtotal_price": "1200.00",
+        "subtotal_price_set": {
+            "shop_money": {
+                "amount": "1200.00",
+                "currency_code": "USD"
+            },
+            "presentment_money": {
+                "amount": "1200.00",
+                "currency_code": "USD"
+            }
+        },
+        "tags": "",
+        "tax_exempt": false,
+        "tax_lines": [],
+        "taxes_included": false,
+        "test": false,
+        "token": "b5077b6d5479897c679d1b7c5a77e846",
+        "total_discounts": "0.00",
+        "total_discounts_set": {
+            "shop_money": {
+                "amount": "0.00",
+                "currency_code": "USD"
+            },
+            "presentment_money": {
+                "amount": "0.00",
+                "currency_code": "USD"
+            }
+        },
+        "total_line_items_price": "1200.00",
+        "total_line_items_price_set": {
+            "shop_money": {
+                "amount": "1200.00",
+                "currency_code": "USD"
+            },
+            "presentment_money": {
+                "amount": "1200.00",
+                "currency_code": "USD"
+            }
+        },
+        "total_outstanding": "0.00",
+        "total_price": "1200.00",
+        "total_price_set": {
+            "shop_money": {
+                "amount": "1200.00",
+                "currency_code": "USD"
+            },
+            "presentment_money": {
+                "amount": "1200.00",
+                "currency_code": "USD"
+            }
+        },
+        "total_shipping_price_set": {
+            "shop_money": {
+                "amount": "0.00",
+                "currency_code": "USD"
+            },
+            "presentment_money": {
+                "amount": "0.00",
+                "currency_code": "USD"
+            }
+        },
+        "total_tax": "0.00",
+        "total_tax_set": {
+            "shop_money": {
+                "amount": "0.00",
+                "currency_code": "USD"
+            },
+            "presentment_money": {
+                "amount": "0.00",
+                "currency_code": "USD"
+            }
+        },
+        "total_tip_received": "0.00",
+        "total_weight": 0,
+        "updated_at": "2024-03-08T14:42:43-05:00",
+        "user_id": 102845350184,
+        "billing_address": {
+            "first_name": "Peter",
+            "address1": "",
+            "phone": null,
+            "city": "",
+            "zip": null,
+            "province": "Alabama",
+            "country": "United States",
+            "last_name": "Congdon",
+            "address2": null,
+            "company": null,
+            "latitude": null,
+            "longitude": null,
+            "name": "Peter Congdon",
+            "country_code": "US",
+            "province_code": "AL"
+        },
+        "customer": {
+            "id": 7288639095080,
+            "email": "peter.congdon@narvar.com",
+            "created_at": "2023-08-29T11:10:11-04:00",
+            "updated_at": "2024-04-23T10:08:56-04:00",
+            "first_name": "Peter",
+            "last_name": "Congdon",
+            "state": "disabled",
+            "note": null,
+            "verified_email": true,
+            "multipass_identifier": null,
+            "tax_exempt": false,
+            "phone": null,
+            "email_marketing_consent": {
+                "state": "not_subscribed",
+                "opt_in_level": "single_opt_in",
+                "consent_updated_at": null
+            },
+            "sms_marketing_consent": null,
+            "tags": "",
+            "currency": "USD",
+            "accepts_marketing": false,
+            "accepts_marketing_updated_at": null,
+            "marketing_opt_in_level": "single_opt_in",
+            "tax_exemptions": [],
+            "admin_graphql_api_id": "gid://shopify/Customer/7288639095080",
+            "default_address": {
+                "id": 9946109247784,
+                "customer_id": 7288639095080,
+                "first_name": "test",
+                "last_name": "user",
+                "company": null,
+                "address1": "9800 Sunset Boulevard",
+                "address2": null,
+                "city": "Beverly Hills",
+                "province": "California",
+                "country": "United States",
+                "zip": "90210",
+                "phone": null,
+                "name": "test user",
+                "province_code": "CA",
+                "country_code": "US",
+                "country_name": "United States",
+                "default": true
+            }
+        },
+        "discount_applications": [],
+        "fulfillments": [{
+                "id": 5016458395944,
+                "admin_graphql_api_id": "gid://shopify/Fulfillment/5016458395944",
+                "created_at": "2024-01-02T01:43:47-05:00",
+                "location_id": 90179830056,
+                "name": "#1030.1",
+                "order_id": 5664047464744,
+                "origin_address": {},
+                "receipt": {},
+                "service": "manual",
+                "shipment_status": "delivered",
+                "status": "success",
+                "tracking_company": "UPS",
+                "tracking_number": "1Z3247300333563203",
+                "tracking_numbers": [
+                    "1Z3247300333563203"
+                ],
+                "tracking_url": "https://www.ups.com/WebTracking?loc=en_US&requester=ST&trackNums=1Z3247300333563203",
+                "tracking_urls": [
+                    "https://www.ups.com/WebTracking?loc=en_US&requester=ST&trackNums=1Z3247300333563203"
+                ],
+                "updated_at": "2024-01-03T14:39:37-05:00",
+                "line_items": [{
+                    "id": 14702133149992,
+                    "admin_graphql_api_id": "gid://shopify/LineItem/14702133149992",
+                    "attributed_staffs": [],
+                    "fulfillable_quantity": 0,
+                    "fulfillment_service": "manual",
+                    "fulfillment_status": "fulfilled",
+                    "gift_card": false,
+                    "grams": 0,
+                    "name": "The Collection Snowboard: Hydrogen",
+                    "pre_tax_price": "600.00",
+                    "pre_tax_price_set": {
+                        "shop_money": {
+                            "amount": "600.00",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "600.00",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "price": "600.00",
+                    "price_set": {
+                        "shop_money": {
+                            "amount": "600.00",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "600.00",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "product_exists": true,
+                    "product_id": 8525365018920,
+                    "properties": [],
+                    "quantity": 1,
+                    "requires_shipping": true,
+                    "sku": "8525365018920",
+                    "taxable": true,
+                    "title": "The Collection Snowboard: Hydrogen",
+                    "total_discount": "0.00",
+                    "total_discount_set": {
+                        "shop_money": {
+                            "amount": "0.00",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "0.00",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "variant_id": 46333790355752,
+                    "variant_inventory_management": "shopify",
+                    "variant_title": null,
+                    "vendor": "Hydrogen Vendor",
+                    "tax_lines": [],
+                    "duties": [],
+                    "discount_allocations": []
+                }]
+            },
+            {
+                "id": 5103707849000,
+                "admin_graphql_api_id": "gid://shopify/Fulfillment/5103707849000",
+                "created_at": "2024-03-08T14:42:42-05:00",
+                "location_id": 90179830056,
+                "name": "#1030.2",
+                "order_id": 5664047464744,
+                "origin_address": {},
+                "receipt": {},
+                "service": "manual",
+                "shipment_status": null,
+                "status": "success",
+                "tracking_company": null,
+                "tracking_number": null,
+                "tracking_numbers": [],
+                "tracking_url": null,
+                "tracking_urls": [],
+                "updated_at": "2024-03-08T14:42:42-05:00",
+                "line_items": [{
+                    "id": 14702133182760,
+                    "admin_graphql_api_id": "gid://shopify/LineItem/14702133182760",
+                    "attributed_staffs": [],
+                    "fulfillable_quantity": 0,
+                    "fulfillment_service": "manual",
+                    "fulfillment_status": "fulfilled",
+                    "gift_card": false,
+                    "grams": 0,
+                    "name": "The Collection Snowboard: Liquid",
+                    "pre_tax_price": "600.00",
+                    "pre_tax_price_set": {
+                        "shop_money": {
+                            "amount": "600.00",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "600.00",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "price": "600.00",
+                    "price_set": {
+                        "shop_money": {
+                            "amount": "600.00",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "600.00",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "product_exists": true,
+                    "product_id": 8525365477672,
+                    "properties": [],
+                    "quantity": 1,
+                    "requires_shipping": true,
+                    "sku": "8525365018921",
+                    "taxable": true,
+                    "title": "The Collection Snowboard: Liquid",
+                    "total_discount": "0.00",
+                    "total_discount_set": {
+                        "shop_money": {
+                            "amount": "0.00",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "0.00",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "variant_id": 46333791011112,
+                    "variant_inventory_management": "shopify",
+                    "variant_title": null,
+                    "vendor": "Hydrogen Vendor",
+                    "tax_lines": [],
+                    "duties": [],
+                    "discount_allocations": []
+                }]
+            }
+        ],
+        "line_items": [{
+                "id": 14702133149992,
+                "admin_graphql_api_id": "gid://shopify/LineItem/14702133149992",
+                "attributed_staffs": [],
+                "fulfillable_quantity": 0,
+                "fulfillment_service": "manual",
+                "fulfillment_status": "fulfilled",
+                "gift_card": false,
+                "grams": 0,
+                "name": "The Collection Snowboard: Hydrogen",
+                "pre_tax_price": "600.00",
+                "pre_tax_price_set": {
+                    "shop_money": {
+                        "amount": "600.00",
+                        "currency_code": "USD"
+                    },
+                    "presentment_money": {
+                        "amount": "600.00",
+                        "currency_code": "USD"
+                    }
+                },
+                "price": "600.00",
+                "price_set": {
+                    "shop_money": {
+                        "amount": "600.00",
+                        "currency_code": "USD"
+                    },
+                    "presentment_money": {
+                        "amount": "600.00",
+                        "currency_code": "USD"
+                    }
+                },
+                "product_exists": true,
+                "product_id": 8525365018920,
+                "properties": [],
+                "quantity": 1,
+                "requires_shipping": true,
+                "sku": "8525365018920",
+                "taxable": true,
+                "title": "The Collection Snowboard: Hydrogen",
+                "total_discount": "0.00",
+                "total_discount_set": {
+                    "shop_money": {
+                        "amount": "0.00",
+                        "currency_code": "USD"
+                    },
+                    "presentment_money": {
+                        "amount": "0.00",
+                        "currency_code": "USD"
+                    }
+                },
+                "variant_id": 46333790355752,
+                "variant_inventory_management": "shopify",
+                "variant_title": null,
+                "vendor": "Hydrogen Vendor",
+                "tax_lines": [],
+                "duties": [],
+                "discount_allocations": []
+            },
+            {
+                "id": 14702133182760,
+                "admin_graphql_api_id": "gid://shopify/LineItem/14702133182760",
+                "attributed_staffs": [],
+                "fulfillable_quantity": 0,
+                "fulfillment_service": "manual",
+                "fulfillment_status": "fulfilled",
+                "gift_card": false,
+                "grams": 0,
+                "name": "The Collection Snowboard: Liquid",
+                "pre_tax_price": "600.00",
+                "pre_tax_price_set": {
+                    "shop_money": {
+                        "amount": "600.00",
+                        "currency_code": "USD"
+                    },
+                    "presentment_money": {
+                        "amount": "600.00",
+                        "currency_code": "USD"
+                    }
+                },
+                "price": "600.00",
+                "price_set": {
+                    "shop_money": {
+                        "amount": "600.00",
+                        "currency_code": "USD"
+                    },
+                    "presentment_money": {
+                        "amount": "600.00",
+                        "currency_code": "USD"
+                    }
+                },
+                "product_exists": true,
+                "product_id": 8525365477672,
+                "properties": [],
+                "quantity": 1,
+                "requires_shipping": true,
+                "sku": "8525365018921",
+                "taxable": true,
+                "title": "The Collection Snowboard: Liquid",
+                "total_discount": "0.00",
+                "total_discount_set": {
+                    "shop_money": {
+                        "amount": "0.00",
+                        "currency_code": "USD"
+                    },
+                    "presentment_money": {
+                        "amount": "0.00",
+                        "currency_code": "USD"
+                    }
+                },
+                "variant_id": 46333791011112,
+                "variant_inventory_management": "shopify",
+                "variant_title": null,
+                "vendor": "Hydrogen Vendor",
+                "tax_lines": [],
+                "duties": [],
+                "discount_allocations": []
+            }
+        ],
+        "payment_terms": null,
+        "refunds": [],
+        "shipping_address": {
+            "first_name": "Peter",
+            "address1": "",
+            "phone": null,
+            "city": "",
+            "zip": null,
+            "province": "Alabama",
+            "country": "United States",
+            "last_name": "Congdon",
+            "address2": null,
+            "company": null,
+            "latitude": null,
+            "longitude": null,
+            "name": "Peter Congdon",
+            "country_code": "US",
+            "province_code": "AL"
+        },
+        "shipping_lines": []
+    }
+}

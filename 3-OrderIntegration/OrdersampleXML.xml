@@ -1,0 +1,24 @@
+<Order>
+  <OrderSource>US</OrderSource>
+  <InvoiceNo>Order_No_1</InvoiceNo>
+  <OrderDate>2022-09-22 11:03 PM</OrderDate>
+  <PromoCode>Promo_1234</PromoCode>
+  <OrderLine>
+    <OrderLine>
+      <Status>SHIPPED</Status>
+      <OrderSource>GB</OrderSource>
+      <LineNo>1</LineNo>
+      <SKU>sku1</SKU>
+      <ItemDescription> Description1</ItemDescription>
+      <Cost>5000.00000</Cost>
+    </OrderLine>
+    <OrderLine>
+      <Status>SHIPPED</Status>
+      <OrderSource>GB</OrderSource>
+      <LineNo>2</LineNo>
+      <SKU>sku2</SKU>
+      <ItemDescription>Description2</ItemDescription>
+      <Cost>8000.00000</Cost>
+    </OrderLine>
+  </OrderLine>
+</Order>
