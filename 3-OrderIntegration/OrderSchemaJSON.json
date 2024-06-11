@@ -1,7 +1,7 @@
 {
     "order_info": {
         "order_number": "Order_No_1",
-        "order_date": "2022-11-16T15:41:00-07:00",
+        "order_date": "2024-06-11T00:03:00-07:00",
         "attributes": {
             "promo_code": "Promo_1234"
         },
@@ -10,8 +10,8 @@
                 "item_id": "1",
                 "sku": "sku1",
                 "name": " Description1",
+                "unit_price": 5000,
                 "attributes": {
-                    "Cost": "5000.00000",
                     "order_source": "GBR"
                 }
             },
@@ -20,8 +20,8 @@
                 "item_id": "2",
                 "sku": "sku2",
                 "name": "Description2",
+                "unit_price": 8000,
                 "attributes": {
-                    "Cost": "8000.00000",
                     "order_source": "GBR"
                 }
             }
